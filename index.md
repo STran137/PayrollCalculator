@@ -11,7 +11,7 @@ I was able to complete all the requirements and added some other features to mak
 ## Live Demo
 Click on the YouTube video to see a live demo of the application!
 
-<src="https://www.youtube.com/embed/KKPpZpa7beE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe width="410" height="231" src="https://www.youtube.com/embed/KKPpZpa7beE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Future Improvements
 
