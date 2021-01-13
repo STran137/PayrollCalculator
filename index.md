@@ -19,7 +19,7 @@ Click on the YouTube video to see a live demo of the application!
 
 ## Future Improvements
 
-* Apply OOP 
+* Apply OOP to the next version 
 * Implement multiple classes
 * Update appearance with menus and formatted tables similar to the Custom PC Builder project
 * Add more questions such as employee ID, overtime hours, and allow for users to input tax
