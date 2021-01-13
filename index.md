@@ -1,4 +1,7 @@
 ---
+title: Payroll Calculator | Java
+description: A simple payroll calculator that I developed in Java to output gross pay and net pay based on user inputted values of hourly payrate and hours worked.
+image: PayrollCalc.png
 youtubeId: KKPpZpa7beE
 ---
 
