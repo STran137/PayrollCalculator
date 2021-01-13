@@ -3,6 +3,13 @@ youtubeId: KKPpZpa7beE
 ---
 
 <link rel="stylesheet" type="text/css" href="video-embed.css">
+<head>
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://stran137.github.io/PayrollCalculator/">
+        <meta property="og:title" content="Payroll Calculator Project | Java">
+        <meta property="og:description" content="A project that I developed in Java that outputs net pay and gross pay based on user inputted values such as hourly payrate and hours worked">
+        <meta property="og:image" content="images/profile/PreviewCheck.png">
+<head>
 
 # Intro
 
