@@ -15,7 +15,7 @@ I was able to complete all the requirements and added some other features to mak
 ## Live Demo
 Click on the YouTube video to see a live demo of the application!
 
-{% include youtubePlayer.html id=page.KKPpZpa7beE %}
+{% include youtubePlayer.html id=KKPpZpa7beE %}
 
 ## Future Improvements
 
